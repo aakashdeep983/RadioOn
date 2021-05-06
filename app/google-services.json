@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647675255905",
+    "project_id": "radioon-7f2b1",
+    "storage_bucket": "radioon-7f2b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647675255905:android:bd3b53705d6c28d5419e20",
+        "android_client_info": {
+          "package_name": "com.mys3soft.mys3chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647675255905-7n2kbt8otqhc7fobcla8p75r5tnphcbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSH-3AfIk5FyZl2Z0OFYWIAkXVzelQqqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647675255905-7n2kbt8otqhc7fobcla8p75r5tnphcbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
